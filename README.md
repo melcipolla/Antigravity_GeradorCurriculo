@@ -1,4 +1,4 @@
-# Gerador de Currículo ⚡ (Neon Edition)
+# Gerador de Currículo ⚡⚡ (Neon Edition)
 
 Bem-vindo ao **Gerador de Currículo PRO**, uma aplicação web de alta performance desenvolvida em React para criar currículos magnéticos e profissionais em minutos, com um design **Dark Neon** de tirar o fôlego.
 
@@ -47,8 +47,6 @@ Bem-vindo ao **Gerador de Currículo PRO**, uma aplicação web de alta performa
 
 4. **Acesse no navegador:**
    [http://localhost:5173](http://localhost:5173)
-
-
 
 ---
 
